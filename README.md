@@ -27,5 +27,5 @@ Lien web:  https://rekhalambotte.github.io/404-page-/.
 
 ## Remarques:
 Projet très amusant. 
-Malheureusement le délai était trop court pour mois.
+Malheureusement le délai était trop court pour moi.
 J'ai eu besoin de 2h de plus.
